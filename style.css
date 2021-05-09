@@ -1,0 +1,23 @@
+.menu{
+   list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 10;
+    cursor: pointer;
+background-color: #fff;
+    width: 100%;
+}
+body{
+    text-align: center;
+    background: linear-gradient(#E55D87,#5FC3E4);
+}
+campuslife{
+background: linear-gradient(#E55D87,#5FC3E4);
+    text-align: center;
+}
+contact{
+     text-align: center;
+    background: linear-gradient(#E55D87,#5FC3E4);
+}
