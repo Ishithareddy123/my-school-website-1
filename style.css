@@ -16,7 +16,7 @@ body{
 }
 .lists{
     float: left;
-    text-decoration: none !important;
-    background-color: dimgrey;
+    text-decoration: none;
+   
     color: white;
 }
